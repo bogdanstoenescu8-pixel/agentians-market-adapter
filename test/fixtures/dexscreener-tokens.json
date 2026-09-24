@@ -1,0 +1,220 @@
+{
+    "pairs":  [
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd",
+                                        "name":  "Uptober",
+                                        "symbol":  "UPTOBER"
+                                    },
+                      "priceUsd":  "0.0002139",
+                      "volume":  {
+                                     "h24":  476204.66
+                                 },
+                      "liquidity":  {
+                                        "usd":  41576.79
+                                    },
+                      "priceChange":  {
+                                          "h24":  59.13
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "6tXfZXND9VtrbPUqCrqNM5aUxnofebm3Mp2fhG4ctJXu",
+                                        "name":  "FOMOCAT",
+                                        "symbol":  "FOMOCAT"
+                                    },
+                      "priceUsd":  "0.00003131",
+                      "volume":  {
+                                     "h24":  146204.23
+                                 },
+                      "liquidity":  {
+                                        "usd":  null
+                                    },
+                      "priceChange":  {
+                                          "h24":  815
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+                                        "name":  "GTA6CAT",
+                                        "symbol":  "GATO"
+                                    },
+                      "priceUsd":  "0.001818",
+                      "volume":  {
+                                     "h24":  463966.9
+                                 },
+                      "liquidity":  {
+                                        "usd":  127534.01
+                                    },
+                      "priceChange":  {
+                                          "h24":  4.4
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "c4AtfqMRbC9FuHtVEHDhCm453tytU9E34MXXrp6bLuf",
+                                        "name":  "Bluf",
+                                        "symbol":  "BLUF"
+                                    },
+                      "priceUsd":  "0.0002322",
+                      "volume":  {
+                                     "h24":  5359973.71
+                                 },
+                      "liquidity":  {
+                                        "usd":  48084.18
+                                    },
+                      "priceChange":  {
+                                          "h24":  394
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "h35vn1cWSuEztxLA3Gkasnoaeay5DBNzvSkaaj3pump",
+                                        "name":  "SHIBA INU",
+                                        "symbol":  "SHIBA"
+                                    },
+                      "priceUsd":  "0.00002700",
+                      "volume":  {
+                                     "h24":  37098.36
+                                 },
+                      "liquidity":  {
+                                        "usd":  null
+                                    },
+                      "priceChange":  {
+                                          "h24":  733
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "HFb6Ec8RYtwnvyNdHtbagEjX1DBKrrqVwPyhYSTrpump",
+                                        "name":  "INU TOWN",
+                                        "symbol":  "IT"
+                                    },
+                      "priceUsd":  "0.000005479",
+                      "volume":  {
+                                     "h24":  166616.7
+                                 },
+                      "liquidity":  {
+                                        "usd":  null
+                                    },
+                      "priceChange":  {
+                                          "h24":  39.68
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "2jcvq8QcJ8TzEYJKYMCjR61kXVSzib4mEkz89tQxpump",
+                                        "name":  "Gigacat",
+                                        "symbol":  "GIGACAT"
+                                    },
+                      "priceUsd":  "0.0001287",
+                      "volume":  {
+                                     "h24":  1789500.66
+                                 },
+                      "liquidity":  {
+                                        "usd":  33874.46
+                                    },
+                      "priceChange":  {
+                                          "h24":  18.19
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "82ezhRLKdKwkSC9jkM3js1yf93VbmvLXNMPkBmompump",
+                                        "name":  "Super Intelligence",
+                                        "symbol":  "SI"
+                                    },
+                      "priceUsd":  "0.0005397",
+                      "volume":  {
+                                     "h24":  2299174.97
+                                 },
+                      "liquidity":  {
+                                        "usd":  69566.99
+                                    },
+                      "priceChange":  {
+                                          "h24":  1044
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+                                        "name":  "NPCs",
+                                        "symbol":  "NPC"
+                                    },
+                      "priceUsd":  "0.0002131",
+                      "volume":  {
+                                     "h24":  3291654.05
+                                 },
+                      "liquidity":  {
+                                        "usd":  44291.59
+                                    },
+                      "priceChange":  {
+                                          "h24":  361
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "Ej6LSbXbuYfaGKF2aZtbxEkr3eWjYu7BrDsHGkEKpump",
+                                        "name":  "Methane Capital",
+                                        "symbol":  "METHANE"
+                                    },
+                      "priceUsd":  "0.000008250",
+                      "volume":  {
+                                     "h24":  201259.92
+                                 },
+                      "liquidity":  {
+                                        "usd":  null
+                                    },
+                      "priceChange":  {
+                                          "h24":  46.55
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "HQfciZiVsxbqW8DV6BaaDDyg1WU9k7V37KvFj5qTpump",
+                                        "name":  "miao coin",
+                                        "symbol":  "miao"
+                                    },
+                      "priceUsd":  "0.0001986",
+                      "volume":  {
+                                     "h24":  259666.21
+                                 },
+                      "liquidity":  {
+                                        "usd":  38401.38
+                                    },
+                      "priceChange":  {
+                                          "h24":  325
+                                      }
+                  },
+                  {
+                      "chainId":  "solana",
+                      "baseToken":  {
+                                        "address":  "BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump",
+                                        "name":  "Holdoween",
+                                        "symbol":  "Holdoween"
+                                    },
+                      "priceUsd":  "0.0003984",
+                      "volume":  {
+                                     "h24":  134484.75
+                                 },
+                      "liquidity":  {
+                                        "usd":  56412.46
+                                    },
+                      "priceChange":  {
+                                          "h24":  136
+                                      }
+                  }
+              ]
+}
